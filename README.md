@@ -16,7 +16,7 @@ This course will cover the basics of recommender systems by using a hands-on app
 
 ## Class Time and Location
 
-2nd Semester (February - May, 2019)
+2nd Semester (February - May, 2020)
 Lecture: Thursday 15:00-17:00
 Location: Aula B1, Facultat de Matemàtiques i Informàtica, Universitat de Barcelona
 
